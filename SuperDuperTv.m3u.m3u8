@@ -192,241 +192,163 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="" group-title="Bangla",Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1,ATN BANGLA 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/94e723b75fb05f2.m3u8
 #EXTINF:-1,ATN BANGLA   UK
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/27e3a6a4d520864.m3u8
 #EXTINF:-1,ATN NEWS
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/9f109db74d3bcfd.m3u8
 #EXTINF:-1,ZEE BANGLA 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/455581e014d65bb.m3u8
 #EXTINF:-1,CHANNEL I 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/c3d9ed9c1748044.m3u8
 #EXTINF:-1,BTV WORLD
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/cdfbf43bf0d715b.m3u8
 #EXTINF:-1,BTV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/b29b6b4bc3cb0ea.m3u8
 #EXTINF:-1,RTV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/841bd70b98d0454.m3u8
 #EXTINF:-1,SA TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/b53db8d0780275a.m3u8
 #EXTINF:-1,Maasaranga
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/e2d297c1af95d9e.m3u8
 #EXTINF:-1,Boishakhi
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/57da9457962e485.m3u8
 #EXTINF:-1,Bangla Vision
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/cc2d493db37c16d.m3u8
 #EXTINF:-1,Bijoy
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/c913dc5c0d26c78.m3u8
 #EXTINF:-1,Desh Tv
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/592f4d5130d6e25.m3u8
 #EXTINF:-1,COLORS BANGLA 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2c341783196df1e.m3u8
 #EXTINF:-1,COLORS BANGLA  HD
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/30f2b3f6827ce99.m3u8
 #EXTINF:-1,Independent
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/3e7dc09a3dce4c3.m3u8
 #EXTINF:-1,NTV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/1c6bf609991a723.m3u8
 #EXTINF:-1,NTV  UK
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/1e607d6fd62062d.m3u8
 #EXTINF:-1,Mohana
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/8fa32076a16661c.m3u8
 #EXTINF:-1,My Tv
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/51a70a79a98a867.m3u8
 #EXTINF:-1,SOMOY TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/18c79ccbd561fcb.m3u8
 #EXTINF:-1,Ruposhi Bangla
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2ce919b9a5f7a1a.m3u8
 #EXTINF:-1,Binodon TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/c0830b61cb7957f.m3u8
 #EXTINF:-1,Zee Bangla Cinema 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/7af4a00b73e6c50.m3u8
 #EXTINF:-1,Star Jalsa STAR JALSA
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/bcbfccea2643d00.m3u8
 #EXTINF:-1,Star Jalsa STAR JALSA ME
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/6c119d9312cad5d.m3u8
 #EXTINF:-1,Channel 24
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/b719341087dd2e7.m3u8
 #EXTINF:-1,Asian TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/83e0cc0cb0cf6d8.m3u8
 #EXTINF:-1,Gaan Bangla
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/9a0ebecc3c2746f.m3u8
 #EXTINF:-1,ABP ANANDA
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/276d2d035c86448.m3u8
 #EXTINF:-1,Ekattor TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2e9ba97f5ae7b39.m3u8
 #EXTINF:-1,JAMUNATV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/851de357164c040.m3u8
 #EXTINF:-1,RPLUSNEWS
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/34714f12c8d51e5.m3u8
 #EXTINF:-1,MOVIE BANGLA
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/c81ca59c6857eba.m3u8
 #EXTINF:-1,Star Jalsa Movies
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/b6508ba1a21aa79.m3u8
 #EXTINF:-1,Channel 9
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/c025ded89795a47.m3u8
 #EXTINF:-1,Deepto Tv
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/11f769eda478f87.m3u8
 #EXTINF:-1,GTV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/762aee54a787d54.m3u8
 #EXTINF:-1,Sangaat TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/bb38a1fbbd593c0.m3u8
 #EXTINF:-1,Sony Aath 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/4772e0aaa28291a.m3u8
 #EXTINF:-1,DHOOM MUSIC
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/0e24e6121287f22.m3u8
 #EXTINF:-1,ETV BANGLA
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/1d88d588cdba8d1.m3u8
 #EXTINF:-1,24 GHANTA
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/934b3a2949b3da3.m3u8
 #EXTINF:-1,NEWS TIME BANGLA
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/3a2836ec44c0163.m3u8
 #EXTINF:-1,TV ASIA
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/de8742da22b6198.m3u8
 #EXTINF:-1,Millennium Tv
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/8622a4824ac06ab.m3u8
 #EXTINF:-1,DESHE BIDESHE TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/3696a3ac31e3ff6.m3u8
 #EXTINF:-1,DD BANGLA
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2f2e1462e134e4f.m3u8
 #EXTINF:-1,AAKASH TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/fad426ab48767ce.m3u8
 #EXTINF:-1,MUSIC FATAFATI
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/b02ef7c285e3b53.m3u8
 #EXTINF:-1,CHANNEL S BD
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/745f144c8a71103.m3u8
 #EXTINF:-1,DIGI BANGLA
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/96af5f989f6d17f.m3u8
 #EXTINF:-1,BANGLA TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/156e3e8669e9118.m3u8
 #EXTINF:-1,CHANNEL S UK
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/ae617742310a2d6.m3u8
 #EXTINF:-1,DBC NEWS
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/a77a138933ffdba.m3u8
 #EXTINF:-1,MY CINEMA
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/9b66a0033fc685f.m3u8
 #EXTINF:-1,NAGORIK TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/b0128ed76385658.m3u8
 #EXTINF:-1,NRB TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/53785928fdf21e9.m3u8
 #EXTINF:-1,PANVISION TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/b6d5f58f556e14c.m3u8
 #EXTINF:-1,JONMOBHUMI TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/00f53c7acd076cd.m3u8
 #EXTINF:-1,TBN 24 NEWS
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/6be0661d23e70d7.m3u8
 #EXTINF:-1,TIME TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/791d5e6f07cbbc4.m3u8
 #EXTINF:-1,News 24
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/b3e9b20f41a90ba.m3u8
 #EXTINF:-1,ATN MUSIC
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/213fe82398a9d48.m3u8
 #EXTINF:-1,SUN BANGLA 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/bb73e56f4a27a47.m3u8
 #EXTINF:-1,Duronto Tv
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/e1c30c8350a592a.m3u8
 #EXTINF:-1,ZEE BANGLA HD 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/e116d2f08190c72.m3u8
 #EXTINF:-1,COLORS BANGLA CINEMA 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/733ed74d43012da.m3u8
 #EXTINF:-1,ETV BANGLA NEWS 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/abc397f2243c66f.m3u8
 #EXTINF:-1,DESHI TV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/0c0294ba2af2a28.m3u8
 #EXTINF:-1,ITV
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/f276568e840549a.m3u8
 #EXTINF:-1,FAMILY TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/48159c2cfa6a9a4.m3u8
 #EXTINF:-1,AZAN TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2619c517268838d.m3u8
 #EXTINF:-1,NANDAN TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2819ae9c8ddb457.m3u8
 #EXTINF:-1,AB TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/9df8db4494038fd.m3u8
 #EXTINF:-1,KTV BANGLA 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/0c9ba2540bb5465.m3u8
 #EXTINF:-1,ALPONA TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/36c07b92d586a85.m3u8
 #EXTINF:-1,JAGORNI TV 
-#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/7679cb210874930.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath
