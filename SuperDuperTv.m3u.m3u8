@@ -1,4 +1,6 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GTV HD
+http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports BD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611573803/ei/y1UOYPqyLoyKz7sP9c-KaA/ip/27.147.207.180/id/aLoVaWtLdCk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPO8lvMI1BXKkZmBGibyIEOxRk9LTA6MoCPcA5LN5AioAiAwa5uFx7uPzlJ2r-533aGIjwGxjRRybG4bHiadhyO33Q%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports BD
