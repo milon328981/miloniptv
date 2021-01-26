@@ -230,7 +230,7 @@ http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="" group-title="India Bangla",Colors Bangla HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2c341783196df1e.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cineema" tvg-logo="" group-title="India Bangla",Zee Bangla Cineema
-http://z5amshls.akamaized.net/zbanglacnm/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cineema" tvg-logo="" group-title="India Bangla",Zee Bangla Cineema
 http://45.127.244.7:8080/hls/channel11.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cineema" tvg-logo="" group-title="India Bangla",Enter 10 Bangla
@@ -384,8 +384,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/index.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9x Tashan" tvg-logo="" group-title="Music",9x Tashan
 https://botallen.live/t/62/master.m3u8?signature=07d1d48c819f93a2f9f0c5d80674a53c5f7fb160&unique=1e612df97397ed212ba8e405a6bbab03
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="" group-title="Music",MTV Beats HD
-https://botallen.live/t/405/master.m3u8?signature=21d9e1d463494d8193dfd73c3c37989cd3c8e6eb&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zing" tvg-logo="" group-title="Music",Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="MTV HD" group-title="Music",MTV HD
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="" group-title="Indian Vip",Star Gold HD
 http://208.115.215.42/Star_G0ld_HD/tracks-v1a1/mono.m3u8
@@ -412,7 +412,7 @@ https://botallen.live/j/And_TV_HD/master.m3u8?signature=fc2c046aafd523e743480bb1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AND TV" tvg-logo="And prive HD" group-title="Indian Vip",And prive HD
 http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Flix HD" tvg-logo="" group-title="Indian Vip",And Flix HD
-https://botallen.live/z/0-9-channel_2105335046/master.m3u8?signature=df296d15a958a9a324b64b7fbe4bc2d7f0db67b1&unique=1e612df97397ed212ba8e405a6bbab03
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4Movies" tvg-logo="" group-title="Indian Vip",B4Movies
 https://botallen.live/t/296/master.m3u8?signature=5b5c73a1b7308c19b991383d9594f09647d4de47&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="" group-title="Indian Vip",Movies Now
@@ -420,21 +420,21 @@ https://botallen.live/t/562/master.m3u8?signature=bf1b66954302aed2d8aae139afb83a
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter 10 Movies" tvg-logo="" group-title="Indian Vip",Enter 10 Movies
 https://botallen.live/t/194/master.m3u8?signature=e52c01545d57de48fee0c0c01757014274780637&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="" group-title="Indian Vip",ZeeTV HD
-https://botallen.live/z/0-9-zeetvhd/master.m3u8?signature=4ab55d8ac1a7016d5f8e9477c83f3cdeac9617c0&unique=1e612df97397ed212ba8e405a6bbab03
+https://y5w8j4a9.ssl.hwcdn.net/ztvme/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dangal" logo="" group-title="Indian Vip",Dangal
 https://botallen.live/t/51/master.m3u8?signature=20da25e6b73613e0043797b6575ff209af87aabb&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epic" logo="" group-title="Indian Vip",Epic
 https://botallen.live/t/126/master.m3u8?signature=c9ee6eb6f2aa95acf4fd0f0068aa592942ba39ab&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Picture HD" logo="" group-title="Indian Vip",And Picture HD
-http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Picture" logo="" group-title="Indian Vip",And Pic
-http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" logo="" group-title="Indian Vip",Zee Cinema HD
-http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Magic" logo="" group-title="Indian Vip",Zee Magic
-http://z5amshls.akamaized.net/magic/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Magic" logo="" group-title="Indian Vip",Big Magic
-https://z5amshls.akamaized.net/bigmagic/tracks-v3a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" logo="" group-title="Indian Vip",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies Sel HD" logo="" group-title="Indian Vip",Star Movies Sel HD
@@ -444,7 +444,7 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4 Kadak" logo="" group-title="Indian Vip",B4 Kadak
 https://streamitv.multitvsolution.in/idvo/moviehouse_360p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee bollywood" logo="" group-title="Indian Vip",Zee bollywood
-http://z5amshls.akamaized.net/classic/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan Movie" logo="" group-title="Indian Vip",Manoranjan Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" logo="" group-title="Indian Vip",Bflix Movie
