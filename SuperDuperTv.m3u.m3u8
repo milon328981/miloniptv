@@ -8,7 +8,7 @@ http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports BD
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="Bangla",Nick
-https://stream.rangdhanu.live/Nick/tracks-v1a1/mono.m3u8?token=8000e24b2088bca96ba2e424fe8289c408c29af7-5788df42651b0f952e356c02bdcbaa6a-1611510992-1611500192
+https://cutt.ly/Rkem7et
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BanglaVission" tvg-logo="https://lh3.googleusercontent.com/proxy/VkAMDkH_8Wtepi9ntBo5Wv62-90FbouCLHyKsBn_iNJ2UP7JRPOjFbtaC3ME_Gf-YI6MSOhYB_QZOMhaS1jeEtLfgis8lHfBXmiqG4ScezHqdwuwXfcqkMl_rurn" group-title="Bangla",BanglaVission
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian TV
