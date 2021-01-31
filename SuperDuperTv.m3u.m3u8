@@ -192,7 +192,7 @@ https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath
 http://103.205.133.20/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/4772e0aaa28291a.m3u8
+http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath 3
 http://103.205.133.20/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath 4
