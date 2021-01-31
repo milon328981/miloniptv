@@ -1,14 +1,8 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GTV HD
-https://cutt.ly/9kemT55
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports BD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611573803/ei/y1UOYPqyLoyKz7sP9c-KaA/ip/27.147.207.180/id/aLoVaWtLdCk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPO8lvMI1BXKkZmBGibyIEOxRk9LTA6MoCPcA5LN5AioAiAwa5uFx7uPzlJ2r-533aGIjwGxjRRybG4bHiadhyO33Q%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports BD
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports BD
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="Bangla",Nick
-https://cutt.ly/Rkem7et
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BanglaVission" tvg-logo="https://lh3.googleusercontent.com/proxy/VkAMDkH_8Wtepi9ntBo5Wv62-90FbouCLHyKsBn_iNJ2UP7JRPOjFbtaC3ME_Gf-YI6MSOhYB_QZOMhaS1jeEtLfgis8lHfBXmiqG4ScezHqdwuwXfcqkMl_rurn" group-title="Bangla",BanglaVission
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian TV
