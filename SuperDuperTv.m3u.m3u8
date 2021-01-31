@@ -3,6 +3,8 @@
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Bangla",T Sports BD
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T10" tvg-logo="" group-title="Bangla",T10
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BanglaVission" tvg-logo="https://lh3.googleusercontent.com/proxy/VkAMDkH_8Wtepi9ntBo5Wv62-90FbouCLHyKsBn_iNJ2UP7JRPOjFbtaC3ME_Gf-YI6MSOhYB_QZOMhaS1jeEtLfgis8lHfBXmiqG4ScezHqdwuwXfcqkMl_rurn" group-title="Bangla",BanglaVission
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian TV
@@ -198,7 +200,7 @@ http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD" tvg-logo="" group-title="India Bangla",Zee Bangla SD
 http://103.205.133.20/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD 2" tvg-logo="" group-title="India Bangla",Zee Bangla SD 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/e116d2f08190c72.m3u8
+http://10.16.100.200:8082/hls/zeebangla_hd_720p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD 1" tvg-logo="" group-title="India Bangla",Zee Bangla HD 1
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD" tvg-logo="" group-title="India Bangla",Star Jalsha SD
@@ -420,8 +422,8 @@ http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4Movies" tvg-logo="" group-title="Indian Vip",B4Movies
 https://botallen.live/t/296/master.m3u8?signature=5b5c73a1b7308c19b991383d9594f09647d4de47&unique=1e612df97397ed212ba8e405a6bbab03
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="" group-title="Indian Vip",Movies Now
-https://botallen.live/t/562/master.m3u8?signature=bf1b66954302aed2d8aae139afb83a053a7252b6&unique=1e612df97397ed212ba8e405a6bbab03
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="" group-title="Indian Vip",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter 10 Movies" tvg-logo="" group-title="Indian Vip",Enter 10 Movies
 https://botallen.live/t/194/master.m3u8?signature=e52c01545d57de48fee0c0c01757014274780637&unique=1e612df97397ed212ba8e405a6bbab03
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="" group-title="Indian Vip",ZeeTV HD
