@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",03.BTV World
-
+http://10.90.90.106:8082/T-Sports/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",04.ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",05.Channel I HD
@@ -12,7 +12,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",10.Rtv
 http://15.1.1.38:8282/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",11.Boishakhi TV
-http://15.1.1.34:8282/Boishakhi/tracks-v1a1/mono.m3u8
+http://10.90.90.106:8082/Boishakhi/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",12.Banglavision HD
 http://15.1.1.34:8282/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla",13.Desh TV
@@ -30,11 +30,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",19.Maasranga HD
 http://15.1.1.34:8282/maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",20.Channel 9 HD
-https://piratesiptv.shortcm.li/channel9.m3u8
+http://10.90.90.106:8082/PTV-Sports/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",22.Gazi TV 
-http://15.1.1.38:8282/DESH-TV/tracks-v1a1/mono.m3u8
+http://10.90.90.106:8082/Gazi-Tv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",23.71 TV
 http://15.1.1.38:8282/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",24.Asian TV 
