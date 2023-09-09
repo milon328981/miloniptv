@@ -3,7 +3,6 @@
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="ATN Bangla" tvg-logo="" group-title="Bangladesh",ATN Bangla
 http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ATN Uk" tvg-logo="" group-title="Bangladesh",ATN Uk
